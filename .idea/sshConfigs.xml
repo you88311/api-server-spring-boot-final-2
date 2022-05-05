@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="3.35.93.144" id="fe4f83a6-be73-498c-ae19-8f3388f5afc6" keyPath="C:\Users\you88\Desktop\아마존 키 페어\mynewserver.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
